@@ -1,8 +1,7 @@
-# \# Spotify Streaming Analysis
+# Spotify Streaming Analysis
 
-# 
 
-# A beginner-level data analytics project exploring Spotify songs and their performance across music platforms. The project uses Python for data cleaning and exploration, PostgreSQL for SQL analysis, and Power BI for an interactive dashboard.
+## A beginner-level data analytics project exploring Spotify songs and their performance across music platforms. The project uses Python for data cleaning and exploration, PostgreSQL for SQL analysis, and Power BI for an interactive dashboard.
 
 # 
 
