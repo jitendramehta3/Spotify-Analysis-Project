@@ -3,7 +3,7 @@
 A beginner-level data analytics project exploring Spotify songs and their performance across music platforms. The project uses Python for data cleaning and exploration, PostgreSQL for SQL analysis, and Power BI for an interactive dashboard.
 
 Project Overview
-The dataset contains \*\*4,598 tracks\*\* and includes song, artist, album, streaming, popularity, and platform metrics. The Power BI dashboard provides a quick overview of the dataset and lets users explore results by release year. 
+The dataset contains 4,598 tracks and includes song, artist, album, streaming, popularity, and platform metrics. The Power BI dashboard provides a quick overview of the dataset and lets users explore results by release year. 
 
 ## Tools Used
 * Python: Data inspection, cleaning, and exploratory analysis
@@ -36,5 +36,5 @@ Spotify streams, YouTube views, and TikTok views are different metrics. Their to
 - Created KPI cards, charts, and a slicer in Power BI
 - Learned to interpret missing values and platform metrics carefully
 
-# Aspiring Data Analyst
+## Aspiring Data Analyst
 
